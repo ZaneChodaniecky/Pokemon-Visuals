@@ -287,6 +287,9 @@ app.layout = html.Div([
 ])
 
 
+######################
+##  Set Callbacks   ##
+######################
 
 # Callback to update the stacked bar chart based on dropdown selection
 @app.callback(
